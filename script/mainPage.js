@@ -4,7 +4,7 @@ function youtubeClicked() {
 }
 
 function instagramClicked(){
-    window.open('https://www.instagram.com/mrwekayt/', '_blank').focus();
+    window.open('https://www.instagram.com/ucaylast_/', '_blank').focus();
 
 }
 
